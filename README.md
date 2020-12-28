@@ -21,6 +21,10 @@ Run the above command in the terminal, to install the dependencies for this proj
 
 <img src = "screenshots/gameover.JPG" height = "500" width = "800"/>
 
+## Game Play Display
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62845847/103192948-9e530280-4900-11eb-8bfe-fa120a0aad91.gif)
+
 ## Description
 
 It is a game mainly made using the pygame module. sound, photos, icons, svg and fonts were taken from google. </br>

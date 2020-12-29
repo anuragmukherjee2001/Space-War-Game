@@ -40,5 +40,5 @@ Rules and features of the game:</br>
 
 <img src = "screenshots/carbon.png" height = "300" width = "300"/> &nbsp;&nbsp;&nbsp; <img src = "screenshots/carbon(1).png" height = "300" width = "300"/> 
 
-### Happy Gaming
+### Happy Gaming😀😀😀!!!
 
